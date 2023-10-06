@@ -22,5 +22,5 @@ rather than installing `blockdiag` separately.
 
 [nwdiag](https://github.com/blockdiag/nwdiag) is available under
 an Apache 2.0 license.  This Homebrew Formula to facilitate installing
-it is available under a MIT License; see the [LICENSE][LICENSE] file
+it is available under a MIT License; see the [LICENSE](LICENSE) file
 for the text of the MIT License.
